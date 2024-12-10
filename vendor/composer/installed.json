@@ -1,0 +1,43 @@
+{
+    "packages": [
+        {
+            "name": "easy-projects/simple-router",
+            "version": "v7.6.1",
+            "version_normalized": "7.6.1.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/FrederickMontiel/SimpleRouter-php.git",
+                "reference": "0eabf67cc0a56977c43a8bfd7b5e2222652fa5f5"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/FrederickMontiel/SimpleRouter-php/zipball/0eabf67cc0a56977c43a8bfd7b5e2222652fa5f5",
+                "reference": "0eabf67cc0a56977c43a8bfd7b5e2222652fa5f5",
+                "shasum": ""
+            },
+            "time": "2024-07-10T01:36:31+00:00",
+            "type": "library",
+            "installation-source": "dist",
+            "autoload": {
+                "psr-4": {
+                    "EasyProjects\\SimpleRouter\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "authors": [
+                {
+                    "name": "Frederick Montiel",
+                    "email": "fmontiel@easyprojects.tech"
+                }
+            ],
+            "description": "Libreria para crear rutas en php.",
+            "support": {
+                "issues": "https://github.com/FrederickMontiel/SimpleRouter-php/issues",
+                "source": "https://github.com/FrederickMontiel/SimpleRouter-php/tree/v7.6.1"
+            },
+            "install-path": "../easy-projects/simple-router"
+        }
+    ],
+    "dev": true,
+    "dev-package-names": []
+}

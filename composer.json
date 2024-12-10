@@ -1,0 +1,20 @@
+{
+    "name": "wil/php-test",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        },
+        "files": [
+            "app/Helpers/functions.php"
+        ]
+    },
+    "authors": [
+        {
+            "name": "Wilfredo Murillo",
+            "email": "wilmugo@gmail.com"
+        }
+    ],
+    "require": {
+        "easy-projects/simple-router": "^7.6"
+    }
+}
